@@ -11,7 +11,7 @@ While looking through the data, I can make a few observations.
 - There are a ton of employees, 1549 in total, that are eligible for mentorship opportuntities. These would be good people to train to take over retiring employees. 
 
 ## Summary
-How many roles will need to be filled as the "silver tsunami" begins to make an impact? - In total, they will need to fill 72,458 roles.
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes, I would say so as there are only 1,549 eligible for mentorship opportunities.
-One other table we created that showed some worisome forecast, was the managers_by_dept as it showed there were only 5 active managers for 9 departments. That tells me there will need to be more managers hired not only because there are 4 open slots but becasue there are 2 more in the "silver tsunami".
-Another thing I would like to learn is the salaries for the retiring group so the company can understand what money will be avaialbe to fill those roles.
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact? - In total, they will need to fill 72,458 roles.
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes, I would say so as there are only 1,549 eligible for mentorship opportunities.
+- One other table we created that showed some worisome forecast, was the managers_by_dept as it showed there were only 5 active managers for 9 departments. That tells me there will need to be more managers hired not only because there are 4 open slots but becasue there are 2 more in the "silver tsunami".
+- Another thing I would like to learn is the salaries for the retiring group so the company can understand what money will be avaialbe to fill those roles.
